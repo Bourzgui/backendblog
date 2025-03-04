@@ -2,7 +2,7 @@
 const mongoose = require('mongoose');
 
 // Utilisez directement l'URL de connexion complète
-const MONGO_URI = "mongodb+srv://chaimaalachhab:1234@db.ugxsm.mongodb.net/?retryWrites=true&w=majority&appName=db";
+const MONGO_URI = "mongodb+srv://bourzguifatimazahra:0919bourzgui@db.1tktx.mongodb.net/?retryWrites=true&w=majority";
 
 const connectDB = async () => {
     try {
