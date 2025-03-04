@@ -1,1 +1,1 @@
-# server
+# back-end blog page
